@@ -1,4 +1,4 @@
-Hi, I'm Dmitry Dernakov 👋
+Hi 👋
 
 ## About Me
 - 🎯 Aspiring Data Analyst  
