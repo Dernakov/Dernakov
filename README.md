@@ -11,7 +11,7 @@ Hi, I'm Dmitry Dernakov 👋
 - Machine Learning Basics 🤖  
 
 ## Projects
-- [Project 1](https://github.com/Dernakov/project1) — Data Analysis of the "SberAutoSubscription"  
+- [Project 1](https://github.com/Dernakov/Homework_skillbox/tree/main/finalwork_DA_Skillbox) — Data Analysis of the "SberAutoSubscription"  
 
 ## Contact
 - [Telegram: @dernakovv](https://t.me/dernakovv)  
